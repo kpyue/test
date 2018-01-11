@@ -16,7 +16,7 @@
 @property (nonatomic, strong, readonly) NSString *serviceIp;
 @property (nonatomic, strong, readonly) NSString *port;
 @property (nonatomic, strong, readonly) NSString *encryptedMobile;
-@property (nonatomic, strong, readonly) NSString *user_agent;
+@property (nonatomic, strong, readonly) NSString *user_agent;//测试啊好好说
 
 // 是否静音，默认NO
 @property (nonatomic, assign) BOOL microphoneMuted;
